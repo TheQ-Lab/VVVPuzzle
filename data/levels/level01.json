@@ -1,0 +1,312 @@
+[
+  {
+    "entityType": "Character",
+    "x": 100,
+    "y": 550,
+    "w": 0,
+    "h": 0
+  },
+  {
+    "entityType": "En",
+    "x": 0,
+    "y": 0,
+    "w": 20,
+    "h": 20,
+    "_comment": "top left corner"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1260,
+    "y": 0,
+    "w": 20,
+    "h": 20,
+    "_comment": "top right corner"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1260,
+    "y": 700,
+    "w": 20,
+    "h": 20,
+    "_comment": " bottom right corner "
+  },
+  {
+    "entityType": "En",
+    "x": 0,
+    "y": 700,
+    "w": 20,
+    "h": 20,
+    "_comment": " bottom left corner "
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 0,
+    "w": 1240,
+    "h": 20,
+    "_comment": "wall top"
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 700,
+    "w": 1240,
+    "h": 20,
+    "_comment": "wall bottom"
+  },
+  {
+    "entityType": "En",
+    "x": 0,
+    "y": 20,
+    "w": 20,
+    "h": 680,
+    "_comment": "wall left"
+  },
+  {
+    "entityType": "En",
+    "x": 1260,
+    "y": 20,
+    "w": 20,
+    "h": 680,
+    "_comment": "wall right"
+  },
+
+
+  {
+    "entityType": "En",
+    "x": 710,
+    "y": 550,
+    "w": 200,
+    "h": 50,
+
+    "_comment": "block_03"
+  },
+
+  {
+    "entityType": "En",
+    "x": 300,
+    "y": 400,
+    "w": 200,
+    "h": 50,
+
+    "_comment": "block_03"
+  },
+
+  {
+    "entityType": "En",
+    "x": 500,
+    "y": 400,
+    "w": 50,
+    "h": 100,
+
+    "_comment": "block_03"
+  },
+
+  {
+    "entityType": "En",
+    "x": 400,
+    "y": 630,
+    "w": 200,
+    "h": 50,
+
+    "_comment": "block_03"
+  },
+
+  {
+    "entityType": "En",
+    "x": 810,
+    "y": 20,
+    "w": 450,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 20,
+    "w": 450,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 910,
+    "y": 70,
+    "w": 350,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 70,
+    "w": 350,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1110,
+    "y": 120,
+    "w": 150,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 120,
+    "w": 150,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1160,
+    "y": 170,
+    "w": 100,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 170,
+    "w": 100,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1060,
+    "y": 600,
+    "w": 200,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1160,
+    "y": 550,
+    "w": 100,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1010,
+    "y": 650,
+    "w": 250,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 650,
+    "w": 250,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 600,
+    "w": 150,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 550,
+    "w": 50,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 550,
+    "y": 480,
+    "w": 20,
+    "h": 5,
+    "semisolid": "u",
+    "_comment": "stair1"
+  },
+
+  {
+    "entityType": "En",
+    "x": 550,
+    "y": 455,
+    "w": 20,
+    "h": 5,
+    "semisolid": "u",
+    "_comment": "stair1"
+  },
+
+  {
+    "entityType": "En",
+    "x": 550,
+    "y": 430,
+    "w": 20,
+    "h": 5,
+    "semisolid": "u",
+    "_comment": "stair1"
+  },
+
+  {
+    "entityType": "En",
+    "x": 550,
+    "y": 405,
+    "w": 20,
+    "h": 5,
+    "semisolid": "u",
+    "_comment": "stair1"
+  },
+
+
+  {
+    "entityType": "Goal",
+
+    "x": 350,
+    "y": 300,
+    "w": 71,
+    "h": 100,
+    "semisolid": "t",
+    "gravityDirection": "d",
+    "nextLevel": 2
+  }
+]

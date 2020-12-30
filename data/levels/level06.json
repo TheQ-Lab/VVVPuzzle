@@ -1,0 +1,367 @@
+[
+  {
+    "entityType": "Character",
+    "x": 20,
+    "y": 600,
+    "w": 0,
+    "h": 0,
+    "_comment": "top left corner"
+  },
+  {
+    "entityType": "En",
+    "x": 0,
+    "y": 0,
+    "w": 20,
+    "h": 20,
+    "_comment": "top left corner"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1260,
+    "y": 0,
+    "w": 20,
+    "h": 20,
+    "_comment": "top right corner"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1260,
+    "y": 700,
+    "w": 20,
+    "h": 20,
+    "_comment": " bottom right corner "
+  },
+  {
+    "entityType": "En",
+    "x": 0,
+    "y": 700,
+    "w": 20,
+    "h": 20,
+    "_comment": " bottom left corner "
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 0,
+    "w": 1240,
+    "h": 20,
+    "_comment": "wall top"
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 700,
+    "w": 1240,
+    "h": 20,
+    "_comment": "wall bottom"
+  },
+  {
+    "entityType": "En",
+    "x": 0,
+    "y": 20,
+    "w": 20,
+    "h": 680,
+    "_comment": "wall left"
+  },
+  {
+    "entityType": "En",
+    "x": 1260,
+    "y": 20,
+    "w": 20,
+    "h": 680,
+    "_comment": "wall right"
+  },
+
+
+  {
+    "entityType": "En",
+    "x": 150,
+    "y": 650,
+    "w": 50,
+    "h": 150,
+    "semisolid": "0",
+    "_comment": "block_00"
+  },
+
+  {
+    "entityType": "En",
+    "x": 150,
+    "y": 400,
+    "w": 50,
+    "h": 150,
+    "semisolid": "0",
+    "_comment": "block_00"
+  },
+
+  {
+    "entityType": "En",
+    "x": 350,
+    "y": 450,
+    "w": 50,
+    "h": 250,
+    "semisolid": "0",
+    "_comment": "block_01"
+  },
+
+  {
+    "entityType": "En",
+    "x": 335,
+    "y": 600,
+    "w": 40,
+    "h": 5,
+    "semisolid": "0",
+    "_comment": "stair"
+  },
+
+  {
+    "entityType": "En",
+    "x": 185,
+    "y": 525,
+    "w": 40,
+    "h": 5,
+    "semisolid": "0",
+    "_comment": "stair"
+  },
+
+  {
+    "entityType": "En",
+    "x": 335,
+    "y": 450,
+    "w": 40,
+    "h": 5,
+    "semisolid": "0",
+    "_comment": "stair"
+  },
+
+  
+
+  {
+    "entityType": "FB",
+    "x": 400,
+    "y": 650,
+    "w": 150,
+    "h": 50,
+    "semisolid": "0",
+    "gravityDirection": "d",
+    "_comment": "lift"
+  },
+
+
+  {
+    "entityType": "FB",
+    "x": 550,
+    "y": 550,
+    "w": 50,
+    "h": 150,
+    "semisolid": "0",
+    "gravityDirection": "d",
+    "_comment": "block_02"
+  },
+
+  {
+    "entityType": "En",
+    "x": 800,
+    "y": 500,
+    "w": 50,
+    "h": 50,
+
+    "_comment": "block_03"
+  },
+
+  {
+    "entityType": "En",
+    "x": 800,
+    "y": 650,
+    "w": 460,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 600,
+    "y": 650,
+    "w": 150,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 910,
+    "y": 420,
+    "w": 50,
+    "h": 50,
+    "semisolid": "d",
+    "_comment": "block_03"
+  },
+
+  {
+    "entityType": "En",
+    "x": 910,
+    "y": 600,
+    "w": 350,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1050,
+    "y": 400,
+    "w": 100,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 960,
+    "y": 550,
+    "w": 200,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 20,
+    "w": 200,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 860,
+    "y": 20,
+    "w": 400,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 70,
+    "w": 100,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+  {
+    "entityType": "En",
+    "x": 960,
+    "y": 70,
+    "w": 300,
+    "h": 50,
+
+    "_comment": "block_03"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1110,
+    "y": 120,
+    "w": 100,
+    "h": 50,
+
+    "_comment": "block_03"
+  },
+
+  {
+    "entityType": "FB",
+    "x": 1210,
+    "y": 120,
+    "w": 50,
+    "h": 50,
+    "semisolid": "0",
+    "gravityDirection": "u",
+    "_comment": "lift"
+  },
+  
+
+  {
+    "entityType": "FB",
+    "x": 750,
+    "y": 600,
+    "w": 50,
+    "h": 100,
+    "semisolid": "0",
+    "gravityDirection": "d",
+    "_comment": "lift"
+    
+  },
+
+  {
+    "entityType": "Teleport",
+    
+    "x": 1060,
+    "y": 320,
+    "w": 80,
+    "h": 80,
+    "x2": 110,
+    "y2": 170,
+    "semisolid": "t",
+    "gravityDirection": "d"
+  },
+
+  {
+    "entityType": "FB",
+    "x": 100,
+    "y": 350,
+    "w": 100,
+    "h": 50,
+    "semisolid": "0",
+    "gravityDirection": "d",
+    "_comment": "lift"
+  },
+
+  {
+    "entityType": "FB",
+    "x": 910,
+    "y": 550,
+    "w": 50,
+    "h": 50,
+    "semisolid": "0",
+    "gravityDirection": "d",
+    "_comment": "lift2"
+  },
+
+  
+
+
+  {
+    "entityType": "En",
+    "x": 250,
+    "y": 200,
+    "w": 100,
+    "h": 50,
+
+    "_comment": "Block goal"
+  },
+
+  {
+    "entityType": "Goal",
+   
+    "x": 270,
+    "y": 120,
+    "w": 80,
+    "h": 80,
+    "semisolid": "t",
+    "gravityDirection": "d",
+    "nextLevel": 7
+  }
+]

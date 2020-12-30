@@ -1,0 +1,393 @@
+[
+  {
+    "entityType": "Character",
+    "x": 20,
+    "y": 600,
+    "w": 0,
+    "h": 0
+  },
+  {
+    "entityType": "En",
+    "x": 0,
+    "y": 0,
+    "w": 20,
+    "h": 20,
+    "_comment": "top left corner"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1260,
+    "y": 0,
+    "w": 20,
+    "h": 20,
+    "_comment": "top right corner"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1260,
+    "y": 700,
+    "w": 20,
+    "h": 20,
+    "_comment": " bottom right corner "
+  },
+  {
+    "entityType": "En",
+    "x": 0,
+    "y": 700,
+    "w": 20,
+    "h": 20,
+    "_comment": " bottom left corner "
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 0,
+    "w": 1240,
+    "h": 20,
+    "_comment": "wall top"
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 700,
+    "w": 1240,
+    "h": 20,
+    "_comment": "wall bottom"
+  },
+  {
+    "entityType": "En",
+    "x": 0,
+    "y": 20,
+    "w": 20,
+    "h": 680,
+    "_comment": "wall left"
+  },
+  {
+    "entityType": "En",
+    "x": 1260,
+    "y": 20,
+    "w": 20,
+    "h": 680,
+    "_comment": "wall right"
+  },
+
+  {
+    "entityType": "FB",
+    "x": 220,
+    "y": 650,
+    "w": 250,
+    "h": 50,
+    "semisolid": "0",
+    "gravityDirection": "d",
+    "_comment": "lift"
+  },
+
+  {
+    "entityType": "En",
+    "x": 220,
+    "y": 250,
+    "w": 50,
+    "h": 300,
+
+    "_comment": "climbwall"
+  },
+
+  {
+    "entityType": "En",
+    "x": 420,
+    "y": 250,
+    "w": 50,
+    "h": 300,
+
+    "_comment": "climbwall"
+  },
+
+  {
+    "entityType": "En",
+    "x": 470,
+    "y": 350,
+    "w": 100,
+    "h": 50,
+    "semisolid": "d",
+    "_comment": "bridge"
+  },
+
+  {
+    "entityType": "En",
+    "x": 720,
+    "y": 150,
+    "w": 100,
+    "h": 100,
+   
+    "_comment": "bridge"
+  },
+
+  {
+    "entityType": "En",
+    "x": 870,
+    "y": 300,
+    "w": 50,
+    "h": 50,
+   
+    "_comment": "bridge"
+  },
+
+
+  {
+    "entityType": "En",
+    "x": 245,
+    "y": 500,
+    "w": 40,
+    "h": 5,
+    "semisolid": "0",
+    "_comment": "stair1"
+  },
+
+  {
+    "entityType": "En",
+    "x": 405,
+    "y": 430,
+    "w": 40,
+    "h": 5,
+    "semisolid": "0",
+    "_comment": "stair2"
+  },
+
+  {
+    "entityType": "En",
+    "x": 245,
+    "y": 350,
+    "w": 40,
+    "h": 5,
+    "semisolid": "0",
+    "_comment": "stair3"
+  },
+
+  {
+    "entityType": "En",
+    "x": 405,
+    "y": 275,
+    "w": 40,
+    "h": 5,
+    "semisolid": "0",
+    "_comment": "stair2"
+  },
+
+  {
+    "entityType": "En",
+    "x": 405,
+    "y": 275,
+    "w": 40,
+    "h": 5,
+    "semisolid": "0",
+    "_comment": "stair2"
+  },
+
+  {
+    "entityType": "FB",
+    "x": 470,
+    "y": 20,
+    "w": 100,
+    "h": 50,
+    "semisolid": "0",
+    "gravityDirection": "u",
+    "_comment": "lift"
+  },
+
+  {
+    "entityType": "En",
+    "x": 705,
+    "y": 200,
+    "w": 40,
+    "h": 5,
+    "semisolid": "0",
+    "_comment": "stair4"
+  },
+  
+
+  {
+    "entityType": "En",
+    "x": 1210,
+    "y": 450,
+    "w": 50,
+    "h": 100,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1210,
+    "y": 250,
+    "w": 50,
+    "h": 100,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1185,
+    "y": 300,
+    "w": 40,
+    "h": 5,
+    "semisolid": "0",
+    "_comment": "stair2"
+  },
+
+  {
+    "entityType": "FB",
+    "x": 1110,
+    "y": 400,
+    "w": 150,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "FB",
+    "x": 670,
+    "y": 430,
+    "w": 150,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 670,
+    "y": 480,
+    "w": 150,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 20,
+    "w": 450,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1010,
+    "y": 70,
+    "w": 150,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 960,
+    "y": 20,
+    "w": 300,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 70,
+    "w": 350,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1110,
+    "y": 120,
+    "w": 50,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 120,
+    "w": 150,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1110,
+    "y": 170,
+    "w": 50,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 20,
+    "y": 170,
+    "w": 100,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1060,
+    "y": 600,
+    "w": 200,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1160,
+    "y": 550,
+    "w": 100,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1010,
+    "y": 650,
+    "w": 250,
+    "h": 50,
+
+    "_comment": "decoration"
+  },
+  {
+    "entityType": "Goal",
+  
+    "x": 1180,
+    "y": 90,
+    "w": 50,
+    "h": 100,
+    "semisolid": "t",
+    "gravityDirection": "d",
+    "nextLevel": 6
+  }
+]
