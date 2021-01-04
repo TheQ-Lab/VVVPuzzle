@@ -17,6 +17,16 @@
 
   {
     "entityType": "En",
+    "x": 380,
+    "y": 648,
+    "w": 40,
+    "h": 5,
+    "semisolid": "u",
+    "_comment": "stair1"
+  },
+
+  {
+    "entityType": "En",
     "x": 1260,
     "y": 0,
     "w": 20,
@@ -87,23 +97,6 @@
     "_comment": "block_00"
   },
 
-
-
- 
-  {
-    "entityType": "En",
-    "x": 375,
-    "y": 648,
-    "w": 40,
-    "h": 5,
-    "semisolid": "0",
-    "_comment": "stair1"
-  },
-
-  
-  
-
-  
   
   {
     "entityType": "En",
@@ -139,9 +132,9 @@
   {
     "entityType": "Teleport",
     
-    "x": 1200,
-    "y": 450,
-    "w": 40,
+    "x": 1170,
+    "y": 460,
+    "w": 80,
     "h": 80,
     "x2": 350,
     "y2": 300,
@@ -307,8 +300,8 @@
   {
     "entityType": "Goal",
     
-    "x": 1050,
-    "y": 220,
+    "x": 1060,
+    "y": 230,
     "w": 50,
     "h": 100,
     "semisolid": "t",

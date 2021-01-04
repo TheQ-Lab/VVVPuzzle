@@ -96,15 +96,7 @@
     "_comment": "block_03"
   },
 
-  {
-    "entityType": "En",
-    "x": 500,
-    "y": 400,
-    "w": 50,
-    "h": 100,
-
-    "_comment": "block_03"
-  },
+ 
 
   {
     "entityType": "En",
@@ -257,11 +249,12 @@
     "_comment": "decoration"
   },
 
+
   {
     "entityType": "En",
-    "x": 550,
-    "y": 480,
-    "w": 20,
+    "x": 530,
+    "y": 475,
+    "w": 40,
     "h": 5,
     "semisolid": "u",
     "_comment": "stair1"
@@ -269,9 +262,9 @@
 
   {
     "entityType": "En",
-    "x": 550,
-    "y": 455,
-    "w": 20,
+    "x": 530,
+    "y": 450,
+    "w": 40,
     "h": 5,
     "semisolid": "u",
     "_comment": "stair1"
@@ -279,9 +272,9 @@
 
   {
     "entityType": "En",
-    "x": 550,
-    "y": 430,
-    "w": 20,
+    "x": 530,
+    "y": 425,
+    "w": 40,
     "h": 5,
     "semisolid": "u",
     "_comment": "stair1"
@@ -289,12 +282,22 @@
 
   {
     "entityType": "En",
-    "x": 550,
-    "y": 405,
-    "w": 20,
+    "x": 530,
+    "y": 400,
+    "w": 40,
     "h": 5,
     "semisolid": "u",
     "_comment": "stair1"
+  },
+
+  {
+    "entityType": "En",
+    "x": 500,
+    "y": 400,
+    "w": 50,
+    "h": 100,
+
+    "_comment": "block_03"
   },
 
 
