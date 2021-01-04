@@ -1,4 +1,4 @@
-final int levelNo = 8;
+final int levelNo = 1;
 boolean debugMode = false;
 
 
