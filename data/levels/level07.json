@@ -254,7 +254,7 @@
     "y": 245,
     "w": 100,
     "h": 5,
-    "semisolid": "u",
+    "semisolid": "o",
     "_comment": "stair1"
   },
 
@@ -495,7 +495,7 @@
     "entityType": "Goal",
     
     "x": 220,
-    "y": 140,
+    "y": 150,
     "w": 80,
     "h": 80,
     "semisolid": "t",
