@@ -150,7 +150,7 @@
     "y": 210,
     "w": 20,
     "h": 5,
-    "semisolid": "u",
+    "semisolid": "d",
     "_comment": ""
   },
 
@@ -160,7 +160,7 @@
     "x": 320,
     "y": 500,
     "w": 100,
-    "h": 50,
+    "h": 10,
     "semisolid": "u",
     "_comment": ""
   },
@@ -170,7 +170,7 @@
     "x": 900,
     "y": 450,
     "w": 100,
-    "h": 50,
+    "h": 10,
     "semisolid": "u",
     "_comment": ""
   },
@@ -185,7 +185,7 @@
     "y": 210,
     "w": 20,
     "h": 5,
-    "semisolid": "0",
+    "semisolid": "d",
     "_comment": ""
   },
 
@@ -209,7 +209,7 @@
     "y": 600,
     "w": 20,
     "h": 5,
-    "semisolid": "0",
+    "semisolid": "d",
     "_comment": ""
   },
 
@@ -219,7 +219,7 @@
     "y": 600,
     "w": 20,
     "h": 5,
-    "semisolid": "0",
+    "semisolid": "d",
     "_comment": ""
   },
 

@@ -1,4 +1,60 @@
 [
+
+  {
+    "entityType": "En",
+    "x": 250,
+    "y": 500,
+    "w": 40,
+    "h": 5,
+    "semisolid": "u",
+    "_comment": "stair1"
+  },
+
+  {
+    "entityType": "En",
+    "x": 400,
+    "y": 430,
+    "w": 40,
+    "h": 5,
+    "semisolid": "u",
+    "_comment": "stair2"
+  },
+
+  {
+    "entityType": "En",
+    "x": 250,
+    "y": 350,
+    "w": 40,
+    "h": 5,
+    "semisolid": "u",
+    "_comment": "stair3"
+  },
+
+  
+
+
+ 
+  
+
+  {
+    "entityType": "En",
+    "x": 1210,
+    "y": 450,
+    "w": 50,
+    "h": 100,
+
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
+    "x": 1190,
+    "y": 300,
+    "w": 40,
+    "h": 5,
+    "semisolid": "u",
+    "_comment": "stair2"
+  },
   {
     "entityType": "Character",
     "x": 20,
@@ -102,61 +158,7 @@
   },
 
 
-  {
-    "entityType": "En",
-    "x": 250,
-    "y": 500,
-    "w": 40,
-    "h": 5,
-    "semisolid": "u",
-    "_comment": "stair1"
-  },
-
-  {
-    "entityType": "En",
-    "x": 400,
-    "y": 430,
-    "w": 40,
-    "h": 5,
-    "semisolid": "u",
-    "_comment": "stair2"
-  },
-
-  {
-    "entityType": "En",
-    "x": 250,
-    "y": 350,
-    "w": 40,
-    "h": 5,
-    "semisolid": "u",
-    "_comment": "stair3"
-  },
-
-  
-
-
  
-  
-
-  {
-    "entityType": "En",
-    "x": 1210,
-    "y": 450,
-    "w": 50,
-    "h": 100,
-
-    "_comment": "decoration"
-  },
-
-  {
-    "entityType": "En",
-    "x": 1190,
-    "y": 300,
-    "w": 40,
-    "h": 5,
-    "semisolid": "u",
-    "_comment": "stair2"
-  },
 
   {
     "entityType": "FB",
@@ -184,7 +186,7 @@
     "y": 480,
     "w": 50,
     "h": 10,
-    "semisolid": "u",
+    "semisolid": "d",
 
     "_comment": ""
   },
@@ -205,7 +207,7 @@
     "y": 400,
     "w": 50,
     "h": 10,
-    "semisolid": "u",
+    "semisolid": "d",
 
     "_comment": ""
   },
@@ -226,7 +228,7 @@
     "y": 300,
     "w": 50,
     "h": 10,
-    "semisolid": "u",
+    "semisolid": "d",
 
     "_comment": ""
   },
