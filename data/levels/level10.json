@@ -258,9 +258,9 @@
   {
     "entityType": "En",
     "x": 565,
-    "y": 210,
+    "y": 215,
     "w": 150,
-    "h": 5,
+    "h": 10,
     "semisolid": "u",
     "_comment": ""
   },
@@ -273,7 +273,7 @@
     "y": 450,
     "w": 20,
     "h": 5,
-    "semisolid": "0",
+    "semisolid": "d",
     "_comment": ""
   },
 
@@ -283,7 +283,7 @@
     "y": 450,
     "w": 20,
     "h": 5,
-    "semisolid": "0",
+    "semisolid": "d",
     "_comment": ""
   },
 

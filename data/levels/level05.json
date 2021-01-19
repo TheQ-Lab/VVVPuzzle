@@ -2,6 +2,16 @@
 
   {
     "entityType": "En",
+    "x": 1190,
+    "y": 245,
+    "w": 70,
+    "h": 5,
+    "semisolid": "u",
+    "_comment": "decoration"
+  },
+
+  {
+    "entityType": "En",
     "x": 250,
     "y": 500,
     "w": 40,
@@ -309,6 +319,8 @@
     "_comment": "decoration"
   },
 
+  
+
   {
     "entityType": "En",
     "x": 20,
@@ -385,7 +397,7 @@
   {
     "entityType": "Goal",
   
-    "x": 1180,
+    "x": 1170,
     "y": 90,
     "w": 50,
     "h": 100,

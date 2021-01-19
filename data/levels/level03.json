@@ -111,22 +111,12 @@
   },
 
 
-  
-  
-
-  
-  
-  
-
-
-  
-
   {
     "entityType": "En",
     "x": 960,
     "y": 500,
     "w": 100,
-    "h": 5,
+    "h": 10,
     "semisolid": "o",
     "_comment": "block_01"
   },
