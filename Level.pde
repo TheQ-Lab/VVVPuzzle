@@ -1,6 +1,6 @@
 class Level{
   JSONArray entityJsons;
-  PImage bg, fg, tx_block, tx_semisolid, tx_floatBlock_a, tx_floatBlock_b, tx_teleport, tx_goal, bg_tut_1, bg_tut_2, bg_tut_3, bg_tut_4;
+  PImage bg, fg, tx_block, tx_semisolid_u, tx_semisolid_d, tx_semisolid_slim, tx_floatBlock_a, tx_floatBlock_b, tx_teleport, tx_goal, bg_tut_1, bg_tut_2, bg_tut_3, bg_tut_4;
   int levelNumber;
   
   PImage stitchedTexture, stitchedTexture_b;
@@ -11,7 +11,9 @@ class Level{
     bg = loadImage("assets/environment/background_textured.png");
     fg = loadImage("assets/environment/foreground_c.png");
     tx_block = loadImage("assets/entities/tx_block_a.png");
-    tx_semisolid = loadImage("assets/entities/tx_semisolid.png");
+    tx_semisolid_slim = loadImage("assets/entities/tx_semisolid_slim.png");
+    tx_semisolid_u = loadImage("assets/entities/tx_semisolid_u.png");
+    tx_semisolid_d = loadImage("assets/entities/tx_semisolid_d.png");
     tx_floatBlock_a = loadImage("assets/entities/float_d.png");
     tx_floatBlock_b = loadImage("assets/entities/float_c.png");
     tx_teleport = loadImage("assets/entities/teleport_a.png");
@@ -60,13 +62,23 @@ class Level{
           
           Entity e = new Entity(x,y,w,h,semisolid);
           
-          if (semisolid == '0') {
-            stitchedTexture = e.stitchRepeatingTexture(tx_block);
-            e.assignTexture(stitchedTexture); 
+          if (semisolid == 'u') {
+            if (h == 5)
+              stitchedTexture = e.stitchRepeatingTexture(tx_semisolid_slim);
+            else
+              stitchedTexture = e.stitchRepeatingTexture(tx_semisolid_u);
+          } else if (semisolid == 'd') {
+            if (h == 5)
+              stitchedTexture = e.stitchRepeatingTexture(tx_semisolid_slim);
+            else
+              stitchedTexture = e.stitchRepeatingTexture(tx_semisolid_d); 
+          } else if (semisolid == 'r' || semisolid == 'l' || semisolid == 'o') {
+            stitchedTexture = e.stitchRepeatingTexture(tx_semisolid_slim);
           } else {
-            stitchedTexture = e.stitchRepeatingTexture(tx_semisolid);
-            e.assignTexture(stitchedTexture); 
+            // everything else gets normal texture
+            stitchedTexture = e.stitchRepeatingTexture(tx_block);
           }
+          e.assignTexture(stitchedTexture);
           
           entities.add(e);
           break;
