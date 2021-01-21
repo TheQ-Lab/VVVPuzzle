@@ -43,6 +43,21 @@ class Goal extends Trigger {
   }
   
   @Override
+  void display(){
+    if (texture==null) {
+      stroke(255);
+      strokeWeight(0);
+      fill(col);
+      rect(x,y,(float)w,(float)h);
+    } else {
+      tint(255,235);
+      image(texture,x,y);
+      tint(255,255);
+    }
+    
+  }
+  
+  @Override
   void hit() {
     if (!alreadyHit) {
       col = color(0,130,0);
@@ -104,7 +119,7 @@ class Teleport extends Trigger {
       angAnim += PI/60;
       rotate(angAnim);
       translate(-(w/2),-(h/2));
-      tint(255,170);
+      tint(255,225);
       image(texture,0,0,w,h);
       tint(255,255);
       popMatrix();

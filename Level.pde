@@ -1,6 +1,6 @@
 class Level{
   JSONArray entityJsons;
-  PImage bg, fg, tx_block, tx_semisolid_u, tx_semisolid_d, tx_semisolid_slim, tx_floatBlock_a, tx_floatBlock_b, tx_teleport, tx_goal, bg_tut_1, bg_tut_2, bg_tut_3, bg_tut_4;
+  PImage bg, fg, tx_block, tx_semisolid_u, tx_semisolid_d, tx_semisolid_slim, tx_floatBlock_a, tx_floatBlock_b, tx_teleport, tx_goal, bg_tut_1, bg_tut_2, bg_tut_3, bg_tut_4, bg_tut_5;
   int levelNumber;
   
   PImage stitchedTexture, stitchedTexture_b;
@@ -8,7 +8,7 @@ class Level{
   Level (int noLvl) {
     levelNumber = noLvl;
     importLevel(noLvl);
-    bg = loadImage("assets/environment/background_textured.png");
+    bg = loadImage("assets/environment/background.png");
     fg = loadImage("assets/environment/foreground_c.png");
     tx_block = loadImage("assets/entities/tx_block_a.png");
     tx_semisolid_slim = loadImage("assets/entities/tx_semisolid_slim.png");
@@ -22,6 +22,7 @@ class Level{
     bg_tut_2 = loadImage("assets/environment/bg-tut_2.png");
     bg_tut_3 = loadImage("assets/environment/bg-tut_3.png");
     bg_tut_4 = loadImage("assets/environment/bg-tut_4.png");
+    bg_tut_5 = loadImage("assets/environment/bg-tut_5.png");
     generateLevel();
     surface.setTitle("Fires Escape from the Darkness - Level " + int(levelNumber));
   }

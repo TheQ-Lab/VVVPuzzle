@@ -1,4 +1,4 @@
-final int levelNo = 10; //<>// //<>//
+final int levelNo = 1; //<>// //<>//
 boolean debugMode = false;
 
 
@@ -55,9 +55,7 @@ void setup() {
 }
 
 void draw() {
-  if (level.levelNumber > 4) {
-    image(level.bg, 0, 0);
-  } else if (level.levelNumber == 1) {
+  if (level.levelNumber == 1) {
     image(level.bg_tut_1, 0, 0);
   } else if (level.levelNumber == 2) {
     image(level.bg_tut_2, 0, 0);
@@ -65,6 +63,10 @@ void draw() {
     image(level.bg_tut_3, 0, 0);
   } else if (level.levelNumber == 4) {
     image(level.bg_tut_4, 0, 0);
+  } else if (level.levelNumber == 5) {
+    image(level.bg_tut_5, 0, 0);
+  } else {
+    image(level.bg, 0, 0);
   }
 
   //for all FloatBlocks.move
