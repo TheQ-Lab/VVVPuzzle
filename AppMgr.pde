@@ -12,7 +12,12 @@ class AppMgr {
         if (t == "loadLevel:") {
           i++;
           int nextLvl = int(tasks.get(i));
-          level.loadLevel(nextLvl);
+          if(nextLvl == 310){
+            level.fg = loadImage("assets/win/win1.png");
+            stopBgm();
+          } else {
+            level.loadLevel(nextLvl);
+          }
         } else if (t == "andereAufgabe") {}
       }
       

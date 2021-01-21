@@ -16,6 +16,10 @@ void restartBgm() {
   bgm.loop();
 }
 
+public void stopBgm() {
+  bgm.stop();
+}
+
 void playSfx() {
   sfx_goal.stop();
   sfx_goal.amp(0.5);
