@@ -79,7 +79,7 @@ class Projectile {
   boolean collision() {
     for (Entity o2 : entities) { //<>//
       //check if in same X-Space
-      if (o2.semisolid=='t') { continue; } //<>//
+      if (o2.semisolid!='0') { continue; } //<>//
       if (x>=o2.x&&x<=o2.x+o2.w || x+w>=o2.x&&x+w<=o2.x+o2.w) {
         //check if in same Y-Space
         if (y>=o2.y&&y<=o2.y+o2.h || y+h>=o2.y&&y+h<=o2.y+o2.h) {

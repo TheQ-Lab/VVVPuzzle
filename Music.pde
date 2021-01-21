@@ -7,7 +7,7 @@ void setupMusic() {
   bgm = new SoundFile(VVVPuzzle.this, "music/Forbidding_Corridors_cut.wav");
   sfx_goal = new SoundFile(VVVPuzzle.this, "music/Special_Item_Get.wav");
   
-  bgm.amp(0.7);
+  bgm.amp(0.9);
   bgm.loop();
 }
 
