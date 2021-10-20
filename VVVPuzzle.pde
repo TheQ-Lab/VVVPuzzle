@@ -1,5 +1,6 @@
 final int levelNo = 1; //<>// //<>//
 boolean debugMode = false;
+boolean musicOff = true;
 
 
 
@@ -169,5 +170,12 @@ void keyReleased() {
   }
   if (key == 'd') {
     debugMode = !debugMode;
+  }
+  if (key == 'm') {
+    musicOff = !musicOff;
+    if (musicOff)
+      stopBgm();
+    else
+      restartBgm();
   }
 }

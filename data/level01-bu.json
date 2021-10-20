@@ -1,0 +1,207 @@
+[
+ {
+   "entityType": "En",
+   "x": 18,
+   "y": 700,
+   "w": 1240,
+   "h": 19,
+   "semisolid": "u",
+   "_comment": "dein Kommentar hier"
+ },
+ {
+   "entityType": "En",
+   "x": 20,
+   "y": -30,
+   "w": 1240,
+   "h": 50
+ },
+ {
+   "entityType": "En",
+   "x": 0,
+   "y": 20,
+   "w": 20,
+   "h": 680
+ },
+ {
+   "entityType": "En",
+   "x": 1261,
+   "y": 20,
+   "w": 20,
+   "h": 680
+ },
+ {
+   "entityType": "En",
+   "x": 0,
+   "y": 0,
+   "w": 18,
+   "h": 18
+ },
+ {
+   "entityType": "En",
+   "x": 1261,
+   "y": 0,
+   "w": 18,
+   "h": 18
+ },
+ {
+   "entityType": "En",
+   "x": 1261,
+   "y": 700,
+   "w": 18,
+   "h": 18
+ },
+ {
+   "entityType": "En",
+   "x": 0,
+   "y": 700,
+   "w": 18,
+   "h": 18
+ },
+ {
+   "entityType": "En",
+   "x": 215,
+   "y": 690,
+   "w": 70,
+   "h": 10,
+   "semisolid": "u"
+ },
+ {
+   "entityType": "En",
+   "x": 200,
+   "y": 640,
+   "w": 100,
+   "h": 50
+ },
+ {
+   "entityType": "En",
+   "x": 415,
+   "y": 630,
+   "w": 70,
+   "h": 70,
+   "semisolid": "u"
+ },
+ {
+   "entityType": "En",
+   "x": 400,
+   "y": 580,
+   "w": 100,
+   "h": 50
+ },
+ {
+   "entityType": "En",
+   "x": 615,
+   "y": 570,
+   "w": 70,
+   "h": 130,
+   "semisolid": "u"
+ },
+ {
+   "entityType": "En",
+   "x": 600,
+   "y": 520,
+   "w": 100,
+   "h": 50
+ },
+ {
+   "entityType": "En",
+   "x": 815,
+   "y": 500,
+   "w": 70,
+   "h": 200,
+   "semisolid": "u"
+ },
+ {
+   "entityType": "En",
+   "x": 800,
+   "y": 450,
+   "w": 100,
+   "h": 50
+ },
+ {
+   "entityType": "En",
+   "x": 1015,
+   "y": 440,
+   "w": 70,
+   "h": 260,
+   "semisolid": "u"
+ },
+ {
+   "entityType": "En",
+   "x": 1000,
+   "y": 390,
+   "w": 100,
+   "h": 50
+ },
+ {
+   "entityType": "En",
+   "x": 800,
+   "y": 200,
+   "w": 100,
+   "h": 50
+ },
+ {
+   "entityType": "FB",
+   "x": 750,
+   "y": 398,
+   "w": 150,
+   "h": 50
+ },
+ {
+   "entityType": "En",
+   "x": 600,
+   "y": 350,
+   "w": 100,
+   "h": 50
+ },
+ {
+   "entityType": "FB",
+   "x": 749,
+   "y": 22,
+   "w": 50,
+   "h": 130,
+   "semisolid": "u",
+   "gravityDirection": "u"
+ },
+ {
+   "entityType": "En",
+   "x": 21,
+   "y": 390,
+   "w": 200,
+   "h": 50,
+   "semisolid": "u"
+ },
+ {
+   "entityType": "En",
+   "x": 141,
+   "y": 339,
+   "w": 200,
+   "h": 50,
+   "semisolid": "u"
+ },
+ {
+   "entityType": "En",
+   "x": 221,
+   "y": 289,
+   "w": 200,
+   "h": 50,
+   "semisolid": "0"
+ },
+ {
+   "entityType": "FB",
+   "x": 225,
+   "y": 441,
+   "w": 50,
+   "h": 100,
+   "semisolid": "0",
+
+ },
+ {
+   "entityType": "Trigger",
+   "x": 810,
+   "y": 120,
+   "w": 80,
+   "h": 80,
+   "semisolid": "t",
+   "gravityDirection": "d"
+ }
+]

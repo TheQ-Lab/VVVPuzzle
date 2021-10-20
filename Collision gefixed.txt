@@ -1,0 +1,3 @@
+Collision jetzt, sodass Blöcke immernoch 50 wide und bei 0,50,100,150 beginnen können, collision zieht aber -1 bei der x/y-Space detection von der width ab um theoretisches clipping zu erlauben 
+
+Texturen wurden schon in der Version davor gefixed
